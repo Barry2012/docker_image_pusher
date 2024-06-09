@@ -1,1 +1,8 @@
 zishuo/embyserver
+nextcloud
+homeassistant/home-assistant
+johngong/baidunetdisk
+hslr/sun-panel
+amtoaer/bili-sync-rs
+johngong/calibre-web
+wallabag/wallabag
